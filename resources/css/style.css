@@ -1,0 +1,18 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+nav {
+  margin: 0;
+  padding: 20px 0;
+}
+
+nav li {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
