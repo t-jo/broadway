@@ -10,7 +10,12 @@ header .fixed-nav {
   background-image: url(resources/images/the-flatiron-building.png);
   border: 3px solid black;
   z-index: 5;
+}
 
+.w3-container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
