@@ -8,7 +8,9 @@ header .fixed-nav {
   width: 100%;
   height: auto;
   background-image: url(resources/images/the-flatiron-building.png);
+  border: 3px solid black;
   z-index: 5;
+
 }
 
 header img {
@@ -23,7 +25,8 @@ header h1 {
   font-size: 70px;
   color: #000;
   font-weight: bold;
-  align-items: center;
+  text-align: center;
+  padding: 70px 0;
 }
 
 h1 {
