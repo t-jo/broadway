@@ -3,12 +3,13 @@ html, body {
   padding: 0;
 }
 
-header .fixed-nav {
+.fixed-nav {
+  background-image: url(resources/images/the-flatiron-building.png);
+  background-size: cover;
+  background-position: center;
   position: fixed;
   width: 100%;
   height: auto;
-  background-image: url(resources/images/the-flatiron-building.png);
-  border: 3px solid black;
   z-index: 5;
 }
 
@@ -37,7 +38,7 @@ header img {
   width: 100%;
 }
 
-header h1 {
+.title {
   font-family: Helvetica;
   font-size: 70px;
   color: #000;
