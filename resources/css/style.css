@@ -18,6 +18,11 @@ header .fixed-nav {
   margin-right: auto;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
 img {
     display: block;
     margin-left:auto;
