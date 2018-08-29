@@ -18,6 +18,14 @@ img {
   width: 100%;
 }
 
+header h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  color: #000;
+  font-weight: bold;
+  align-items: center;
+}
+
 h1 {
   font-family: Helvetica;
   font-size: 70px;
