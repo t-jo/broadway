@@ -8,7 +8,7 @@ html, body {
   width: 80%;
   height: auto;
   display: grid;
-  grid-template: 40% 1fr 1fr 1fr 1fr 1fr / 100%;
+  grid-template: 40% 1fr 1fr 1fr 1fr 1fr / auto;
   border-color: red;
   border-style: solid;
 
