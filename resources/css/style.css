@@ -28,6 +28,7 @@ html, body {
   display: flex;
   flex-direction: column;
   background-image: url(resources/images/the-flatiron-building.png);
+  z-index: 0;
   height: 25px;
 }
 
