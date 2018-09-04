@@ -6,6 +6,8 @@ html, body {
 .fixed-nav {
   display: grid;
   grid-template: 40% 1fr 1fr 1fr 1fr 1fr / 100%;
+  border-color: red;
+  border-style: solid;
   background-image: url(resources/images/the-flatiron-building.png);
   background-size: cover;
   background-position: center;
