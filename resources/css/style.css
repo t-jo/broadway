@@ -25,10 +25,13 @@ html, body {
 }
 
 .flex-container {
-  z-index: 1;
   display: flex;
   flex-direction: column;
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url("resources/images/the-flatiron-building.png");
+}
+
+#white-text {
+  color: white;  
 }
 
 img {
@@ -36,7 +39,6 @@ img {
     margin-left:auto;
     margin-right: auto;
 }
-
 header img {
   display: block;
   margin-left:auto;
