@@ -28,10 +28,11 @@ html, body {
   display: flex;
   flex-direction: column;
   background-image: url("resources/images/the-flatiron-building.png");
+  z-index: auto;
 }
 
 #white-text {
-  color: white;  
+  color: white;
 }
 
 img {
