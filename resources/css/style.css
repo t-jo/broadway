@@ -6,14 +6,11 @@ html, body {
 .fixed-nav {
   position: fixed;
   width: 80%;
-  height: auto;
+  height: 600px;
   display: grid;
   grid-template: 40% 1fr 1fr 1fr 1fr 1fr / auto;
   border-color: red;
   border-style: solid;
-
-
-
 
   background-size: cover;
   background-position: center;
